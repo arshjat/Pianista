@@ -8,7 +8,7 @@ Pianista is a platform where you can search any song and can get corresponding s
  
 
 
-## Installation
+## Installation with Git
 
 You need to have Python(>=3) and pip3 installed on your local machine.
 
@@ -28,3 +28,6 @@ To run the project.
 ```
 python app.py
 ```
+
+## Installation with Docker
+
