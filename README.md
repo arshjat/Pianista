@@ -1,4 +1,4 @@
-![alt-image](https://img.shields.io/eclipse-marketplace/l/:name.svg)
+![alt-image](https://img.shields.io/badge/license-GPL-brightgreen.svg)
 # Pianista
 
 ## Why Pianista?
