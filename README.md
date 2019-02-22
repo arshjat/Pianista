@@ -31,3 +31,19 @@ python app.py
 
 ## Installation with Docker
 
+Build a docker Image using Dockerfile
+
+```
+docker build pianista:latest .
+```
+If you are behind a proxy environment, do 
+
+```
+docker build --build-arg http_proxy=" " --build-arg https_proxy=" " -t flask-tutorial:latest .
+```
+
+Then run a container using the docker image
+```
+docker run -d -p 5000:5000 pianista
+```
+we are using port 5000 because unlike other frmeworks/micro frameworks **Flask** uses 5000 port.
