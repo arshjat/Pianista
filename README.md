@@ -39,7 +39,7 @@ docker build pianista:latest .
 If you are behind a proxy environment, do 
 
 ```
-docker build --build-arg http_proxy=" " --build-arg https_proxy=" " -t flask-tutorial:latest .
+docker build --build-arg http_proxy=" " --build-arg https_proxy=" " -t pianista:latest .
 ```
 
 Then run a container using the docker image
