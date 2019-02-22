@@ -1,3 +1,4 @@
+https://img.shields.io/aur/license/:packageName.svg
 # Pianista
 
 ## Why Pianista?
