@@ -18,6 +18,14 @@ Git Clone.
 ```
 git clone https://github.com/arshjat/Pianista.git
 ```
+
+Create and start a virtual environment.
+
+```
+virtualenv venv
+source venv/bin/activate
+```
+
 Install dependencies.
 
 ```
